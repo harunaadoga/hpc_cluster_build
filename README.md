@@ -19,11 +19,12 @@ Contributing to the Project:
 This project is open to contributions from the community. If you have experience in HPC cluster design, software development, or system administration, you can contribute by:
 
 - Suggesting new features or improvements
+- Writing automation scripts
 - Writing code to implement new features or fix issues
 - Testing the software and providing feedback
 - Writing documentation or tutorials to help users
-- Participating in discussions on the project's mailing list or forum
 
-To get started, you can clone the project's repository from GitHub and read the documentation to understand the architecture and design of the cluster. You can also join the project's mailing list or forum to discuss ideas and get help from other contributors.
 
-Thank you for your interest in the Open-Source HPC Cluster Design Project!
+To get started, you can clone the project's repository and read the documentation to understand the architecture and design of the cluster.
+Contact: haruna.umar.adoga@gmail.com
+@harunaadoga
