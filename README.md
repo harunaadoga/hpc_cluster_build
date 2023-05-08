@@ -1,4 +1,4 @@
-# hpc_cluster_build
+# Open-source HPC Cluster Build
 
 This project aims to design an open-source high-performance computing (HPC) cluster that can be used for scientific computing, data analysis, and machine learning tasks. The cluster will be based on open-source software and hardware components, and will be designed to be scalable, efficient, and easy to manage.
 
