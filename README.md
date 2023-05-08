@@ -1,7 +1,6 @@
 # Open-source HPC Cluster Build
-
-This project aims to design an open-source high-performance computing (HPC) cluster that can be used for scientific computing, data analysis, and machine learning tasks. The cluster is based on open-source software and hardware components, and is designed to be scalable, efficient, and easy to manage. The ![Cluster Topology](https://github.com/harunaadoga/hpc_cluster_build/blob/main/Cluster-Topology.jpg) is continously changing.
-
+![Cluster Topology](https://github.com/harunaadoga/hpc_cluster_build/blob/main/Cluster-Topology.jpg)
+This project aims to design an open-source high-performance computing (HPC) cluster that can be used for scientific computing, data analysis, and machine learning tasks. The cluster is based on open-source software and hardware components, and is designed to be scalable, efficient, and easy to manage.
 Key Components of the Cluster:
 
 1. Compute Nodes: The cluster will consist of multiple compute nodes, each equipped with high-performance CPUs, GPUs, and fast interconnects. These nodes will be connected to a high-speed network to enable parallel computing and data transfer.
